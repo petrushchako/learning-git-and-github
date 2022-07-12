@@ -12,4 +12,5 @@ More additional changes
 
 Git new branch created
 
-Making hte changes to the Sample file 1 on the ChangeSample_1 branch
+Making hte changes to the Sample file 1 on the ChangeSample_1 branch and adding additional text
+to make sure it works correctly. Otherwise I will have to do this in the morning. 
