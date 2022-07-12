@@ -7,3 +7,5 @@ Git reset executed 21:37
 
 
 Git new branch created
+
+Making hte changes to the Sample file 1 on the ChangeSample_1 branch
