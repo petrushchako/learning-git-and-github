@@ -4,3 +4,6 @@ Some additional text before Amend
 Adding fogoten information to Changing history 1 commit
 
 Git reset executed 21:37
+
+
+Git new branch created
