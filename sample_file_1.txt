@@ -6,6 +6,10 @@ Adding fogoten information to Changing history 1 commit
 Git reset executed 21:37 time has changed to 22:52
 
 
+
+More additional changes
+
+
 Git new branch created
 
 Making hte changes to the Sample file 1 on the ChangeSample_1 branch
